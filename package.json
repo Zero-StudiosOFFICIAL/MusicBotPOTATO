@@ -1,0 +1,33 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "^0.0.2",
+    "ffmpeg": "^0.0.4",
+    "ytdl": "^1.3.5",
+    "ytdl-core": "^3.2.2",
+    "yt-search": "^2.3.1",
+    "dotenv": "^8.2.0",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "@discordjs/opus": "^0.3.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
